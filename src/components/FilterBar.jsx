@@ -1,3 +1,4 @@
+//FilterBar.jsx
 import React from "react";
 
 const FilterBar = ({ searchTerm, setSearchTerm, selectedCity, setSelectedCity, cities }) => {
